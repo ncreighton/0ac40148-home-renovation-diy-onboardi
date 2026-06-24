@@ -1,2 +1,28 @@
-# 0ac40148-home-renovation-diy-onboardi
-Every home renovation professionals needs this — most just don't know it yet.  Mobile-optimized for Notion iOS and Android — works everywhere you work. Pre-built databases, views, and formula fields — ready to duplicate and use.  ## What's Included  - Home Renovation &amp; Diy Onboarding And Training — fully configured and ready to use - Pre-built data
+# Home Renovation & DIY Onboarding and Training System Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/cNi14n5iT4sc1de0VecZC1d)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/cNi14n5iT4sc1de0VecZC1d)
+
